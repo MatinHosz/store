@@ -1,0 +1,2 @@
+This project is a simple program to practice inheritance and polymorphism in Java. It simulates a basic commercial application where customers can make payments using different payment methods. in this simple project
+Customers can pay using Credit Card , PayPal, or Bitcoin. Each payment method stores its own details. Customers have a payment history to track past transactions. The Main class creates 3 customers, makes their payments, and displays info.
